@@ -1,0 +1,9 @@
+yfinance
+newsapi-python
+scikit-learn
+numpy
+pandas
+ib_insync
+twilio
+transformers
+
